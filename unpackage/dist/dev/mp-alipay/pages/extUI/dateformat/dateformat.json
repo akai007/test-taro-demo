@@ -1,0 +1,8 @@
+{
+  "defaultTitle": "Dateformat 日期格式化",
+  "pullRefresh": false,
+  "usingComponents": {
+    "uni-section": "/components/uni-section/uni-section",
+    "uni-dateformat": "/components/uni-dateformat/uni-dateformat"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "layout 布局",
+  "pullRefresh": false,
+  "usingComponents": {
+    "uni-section": "/components/uni-section/uni-section",
+    "uni-row": "/components/uni-row/uni-row",
+    "uni-col": "/components/uni-col/uni-col"
+  }
+}
